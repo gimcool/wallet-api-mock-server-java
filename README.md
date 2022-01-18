@@ -13,22 +13,22 @@
 <a name="get-started"></a>
 # Get Started
 
-Refer to [here](https://github.com/gimcool/wallet-api-mock-server-java#get-started) for detailed introduction.
+Refer to [here](https://github.com/gimcool/wallet-api-mock-server#get-started) for detailed introduction.
 
 <a name="deposit-wallet-api"></a>
 # Deposit Wallet API
 
-Refer to [here](https://github.com/gimcool/wallet-api-mock-server-java#create-deposit-wallet-addresses) for detailed API documentation.
+Refer to [here](https://github.com/gimcool/wallet-api-mock-server#create-deposit-wallet-addresses) for detailed API documentation.
 
 <a name="withdraw-wallet-api"></a>
 # Withdraw Wallet API
 
-Refer to [here](https://github.com/gimcool/wallet-api-mock-server-java#withdraw) for detailed API documentation.
+Refer to [here](https://github.com/gimcool/wallet-api-mock-server#withdraw) for detailed API documentation.
 
 <a name="query-api"></a>
 # Query API
 
-Refer to [here](https://github.com/gimcool/wallet-api-mock-server-java#query-api-token-status) for detailed API documentation.
+Refer to [here](https://github.com/gimcool/wallet-api-mock-server#query-api-token-status) for detailed API documentation.
 
 <a name="mock-server"></a>
 # Mock Server
@@ -74,7 +74,7 @@ http://localhost:8889/v1/mock/wallets/withdrawal/callback
 <a name="curl-testing-commands"></a>
 # cURL Testing Commands
 
-Refer to [here](https://github.com/gimcool/wallet-api-mock-server-java#curl-testing-commands) for curl testing commands.
+Refer to [here](https://github.com/gimcool/wallet-api-mock-server#curl-testing-commands) for curl testing commands.
 
 <a name="other-language-versions"></a>
 # Other Language Versions
